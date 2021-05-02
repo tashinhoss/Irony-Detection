@@ -1,7 +1,12 @@
 # Irony-Detection
 This repository contains the framework for [SemEval-2018 Task 3: Irony Detection in English Tweets.](https://www.aclweb.org/anthology/S18-1005/)
 
-## Data Format 
+## Framework
+
+![](/Images/ironydetection.jpg)
+
+
+### Data Format 
 | Tweet Index   | Label| Tweet Text  |
 | ------------- |:-------------:| :-----:|
 | 1     | 0| if Christian expects Fifa to sleep in my bed with me tonight, he's wrong 👿|
