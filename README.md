@@ -1,9 +1,11 @@
 # Irony-Detection
 This repository contains the framework for [SemEval-2018 Task 3: Irony Detection in English Tweets.](https://www.aclweb.org/anthology/S18-1005/) task.
 
-## Framework
+## Demonstration
 
-![](/Images/ironydetection.jpg)
+<p align="center">
+<img src="https://github.com/tashinhoss/Irony-Detection/blob/main/Images/ironydetector.gif">
+</p>
 
 
 ### Data Format 
